@@ -53,20 +53,6 @@
 
 //#######################################################
 //Challenge 2 solution, using for loop
-// const numbers = [2, -30, 50, 20, -12, -9, 7];
-
-// function num(numbers) {
-//   let sum = 0;
-//   for (let i = 0; i < numbers.length; i++) {
-//     if (numbers[i] > 0) {
-//       sum += numbers[i];
-//     }
-//   }
-//   return sum;
-// }
-
-// const positiveSum = num(numbers);
-// console.log(positiveSum);
 
 //#######################################################
 //Challenge 3 solution
